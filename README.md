@@ -1,8 +1,14 @@
-# i-Drive
+# i-Drive Dashcams
 
 Model: i-Drive i11 dashcam and full series
 
-Product link: https://youtu.be/vFdHuKhwXmQ
+Product links: 
+ - https://youtu.be/vFdHuKhwXmQ
+ - https://www.sgcarmart.com/products/listing.php?BRD=i-Drive
+ - https://www.worldauto.com.sg/product/i-drive-i12-pro-full-hd-2-channel-car-dash-camera-recorder/
+ - https://www.sgcarmart.com/products/overview.php?ID=13928 
+ - https://www.youtube.com/@amicisingapore8793
+ - https://www.facebook.com/RimbunanKuasaSingapore/
 
 ## Finding 1 - CVE-2025-1878: Default Credentials Cannot be Changed
 
