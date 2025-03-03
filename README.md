@@ -4,6 +4,7 @@ Model: i-Drive i11 dashcam and full series
 
 Product links: 
  - https://youtu.be/vFdHuKhwXmQ
+ - http://amici-group.com/
  - https://www.sgcarmart.com/products/listing.php?BRD=i-Drive
  - https://www.worldauto.com.sg/product/i-drive-i12-pro-full-hd-2-channel-car-dash-camera-recorder/
  - https://www.sgcarmart.com/products/overview.php?ID=13928 
